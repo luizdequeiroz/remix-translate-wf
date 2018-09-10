@@ -1,0 +1,24 @@
+﻿
+
+------------------ Literais ------------------
+
+•	Mútuo (Mileni/Matím/Marabá) (03)
+•	Atroz (Mileni) (04)
+•	Barbado (Mileni) (04)
+•	Furnarin (Homens de Pedra) (05)
+•	Marok (Con/Scorp/Cerco) (05)
+•	Sagat (SagMátim/Primos) (06)
+•	Jitiroc (Jitiankis e Jitizerais) (06)
+•	Orcono (Zionr) (08)
+•	Orque (Mileni) (08)
+•	Yiokari (Jirsaih) (20)
+•	Yiokal (Matím) (08)
+•	Lea-yiokari (Mileni) (07)
+
+----------------- Abstratos ------------------
+
+•	Deranai (15)
+•	Arconte (50)
+
+
+

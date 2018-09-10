@@ -1,0 +1,11 @@
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\bin\Debug\RemixTranslate.exe.config
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\obj\Debug\RemixTranslate.csprojResolveAssemblyReference.cache
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\obj\Debug\RemixTranslate.Translate.resources
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\obj\Debug\RemixTranslate.Properties.Resources.resources
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\obj\Debug\RemixTranslate.csproj.GenerateResource.Cache
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\bin\Debug\RemixTranslate.exe
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\bin\Debug\RemixTranslate.pdb
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\obj\Debug\RemixTranslate.exe
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\obj\Debug\RemixTranslate.pdb
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\bin\Debug\NHunspell.dll
+c:\users\1007787\documents\visual studio 2015\Projects\RemixTranslate\RemixTranslate\bin\Debug\NHunspell.pdb
